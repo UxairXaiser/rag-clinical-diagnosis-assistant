@@ -1,9 +1,6 @@
----
-
 # 🧠 RAG Clinical Diagnosis Assistant  
-*A Retrieval-Augmented Generation system for clinical reasoning using MIMIC-IV-Ext DiReCT dataset.*
+**A Retrieval-Augmented Generation system for clinical reasoning using MIMIC-IV-Ext DiReCT dataset.**
 
----
 
 ## 📌 Overview
 
